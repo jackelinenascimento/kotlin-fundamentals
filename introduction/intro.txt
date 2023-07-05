@@ -1,0 +1,11 @@
+kotlinc hello.kt -include-runtime -d hello.jar // podera rodar com java -jar hello.jar
+
+What is Kotlin?
+- JVM language (compiles down to Java bytecode)
+- OOP
+- Functional
+- Less ceremony than Java
+
+Why Use Kotlin?
+- Less ceremony than Java
+- Improves on Java in many ways
